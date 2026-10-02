@@ -143,4 +143,4 @@ pet_cat_html = """
 """
 
 # Render the component inside Streamlit with adjusted height
-st.html(pet_cat_html)
+st.html(pet_cat_html, unsafe_allow_javascript=True)
