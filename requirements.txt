@@ -1,6 +1,1 @@
-Github streamlit website.
-Once you open the website the background in a beige like white, with a green alien cat on the center
-The cat looks sad, and there is text over it saying "pet the cat to make it happy"
-If the mouse cursor is over the cat, it smiles, if you move it over the cat it releases heart emojies.
-code in python using Streamlit and some basic HTML/CSS for styling. Below is an example of how you can implement this functionality:```python
-import streamlit as st
+streamlit
